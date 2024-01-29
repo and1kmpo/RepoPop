@@ -1,8 +1,43 @@
-# React + Vite
+# Top 10 Google Repos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project fetches and displays the top 10 most popular repositories from Google on GitHub.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Vite
+- Axios
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- Node.js installed on your local machine.
+
+### Installation
+
+1. **Clone the repo:**
+
+   ```sh
+   git clone https://github.com/and1kmpo/RepoPop.git
+   ```
+
+2. **Install NPM packages:**
+
+   ```sh
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```sh
+   npm run dev
+   ```
+
+## Usage
+
+Once the development server is running, you can view the top 10 Google repositories on the web page.
+
+
